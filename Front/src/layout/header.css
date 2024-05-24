@@ -1,0 +1,21 @@
+*{
+    top: 0px;
+    text-decoration: none;
+
+}
+header{
+    padding: 15px,200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+
+}
+.lists{
+    display: flex;
+    gap: 40px;
+}
+
+.lists li{
+    list-style: none
+}
