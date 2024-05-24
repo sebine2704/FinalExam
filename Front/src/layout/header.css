@@ -17,5 +17,10 @@ header{
 }
 
 .lists li{
-    list-style: none
+    list-style: none;
+    font-weight: bolder;
+    
+}
+.M{
+    font-weight: bolder;
 }
